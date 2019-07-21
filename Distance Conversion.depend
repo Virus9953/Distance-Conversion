@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563742962 source:c:\c programs\distance conversion\main.c
+	<stdio.h>
+	<conio.h>
+
